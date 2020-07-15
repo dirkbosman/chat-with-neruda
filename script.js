@@ -1,7 +1,7 @@
 // This is a small set of basically random 'catch alls' for anything that the user enters outside of the possible trigger phrases
 
 const alternative = [
-    “I love you as certain dark things are to be loved, in secret, between the shadow and the soul.”,
+    "I love you as certain dark things are to be loved, in secret, between the shadow and the soul.",
     "here_1",
     "here_2",
     "here_3"
