@@ -2,9 +2,18 @@
 
 const alternative = [
     "I love you as certain dark things are to be loved, in secret, between the shadow and the soul.",
-    "here_1",
-    "here_2",
-    "here_3"
+    "We the mortals touch the metals,the wind, the ocean shores, the stones,knowing they will go on, inert or burning,and I was discovering, naming all the these things: it was my destiny to love and say goodbye.",
+    "In one kiss, you'll know all I haven't said.",
+    "I want to do with you what spring does with cherry trees.",
+    "Soy el desesperado, la palabra sin ecos, el que lo perdiò todo, y el que todo lo tuvo.",
+    "Dark is the world’s night without you my love.",
+    "Quiero saltar al agua para caer al cielo. (Agua dormida).",
+    "As if you were on fire from within. The moon lives in the lining of your skin.",
+    "You can cut all the flowers but you cannot keep Spring from coming.",
+    "Let us forget with generosity those who cannot love us.",
+    "Laughter is the language of the soul.",
+    "To feel the love of people whom we love is a fire that feeds our life.",
+    "And one by one the nights between our separated cities are joined to the night that unites us."
 ];
 
 
